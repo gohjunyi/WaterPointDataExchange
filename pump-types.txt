@@ -1,0 +1,31 @@
+Types
+Centrifugal
+Screw
+Diaphragm
+Gear
+Hydraulic Gear
+Vacuum
+Rotary
+Lobe
+Vane
+Progressing Cavity
+Peristalic
+Hydraulic
+End Suction
+Self Priming
+Jet
+Plunger
+Disc
+Positive Displacement
+Axial Flow
+Turbine
+Multistage
+Impeller
+Vortex
+Piston
+Magnetic
+Split Case
+Syringe
+Pitot Tube
+Hand
+Sump
